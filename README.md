@@ -2,6 +2,8 @@
 
 A soft, muted dark theme for Neovim with pink accents.
 
+![dusk.nvim](screenshots/leftpad.png)
+
 ## Installation
 
 Using [lazy.nvim](https://github.com/folke/lazy.nvim):
