@@ -97,21 +97,21 @@ vim.cmd.colorscheme("dusk")
 
 ## Color Palette
 
-| Name     | Hex       | Preview                                              |
-| -------- | --------- | ---------------------------------------------------- |
-| base     | `#1e1e1e` | ![#1e1e1e](https://place-hold.it/20/1e1e1e?text=+)   |
-| mantle   | `#1a1a1a` | ![#1a1a1a](https://place-hold.it/20/1a1a1a?text=+)   |
-| surface0 | `#242424` | ![#242424](https://place-hold.it/20/242424?text=+)   |
-| surface1 | `#2b2b2b` | ![#2b2b2b](https://place-hold.it/20/2b2b2b?text=+)   |
-| surface2 | `#333333` | ![#333333](https://place-hold.it/20/333333?text=+)   |
-| text     | `#d4d4d4` | ![#d4d4d4](https://place-hold.it/20/d4d4d4?text=+)   |
-| pink     | `#e8a0bf` | ![#e8a0bf](https://place-hold.it/20/e8a0bf?text=+)   |
-| mauve    | `#c49ae8` | ![#c49ae8](https://place-hold.it/20/c49ae8?text=+)   |
-| red      | `#e86a7a` | ![#e86a7a](https://place-hold.it/20/e86a7a?text=+)   |
-| peach    | `#dbb074` | ![#dbb074](https://place-hold.it/20/dbb074?text=+)   |
-| green    | `#a3c985` | ![#a3c985](https://place-hold.it/20/a3c985?text=+)   |
-| teal     | `#7dcac4` | ![#7dcac4](https://place-hold.it/20/7dcac4?text=+)   |
-| blue     | `#7eb8da` | ![#7eb8da](https://place-hold.it/20/7eb8da?text=+)   |
+| Name     | Hex       | Preview                                                       |
+| -------- | --------- | ------------------------------------------------------------- |
+| base     | `#1e1e1e` | ![#1e1e1e](https://singlecolorimage.com/get/1e1e1e/100x100)   |
+| mantle   | `#1a1a1a` | ![#1a1a1a](https://singlecolorimage.com/get/1a1a1a/100x100)   |
+| surface0 | `#242424` | ![#242424](https://singlecolorimage.com/get/242424/100x100)   |
+| surface1 | `#2b2b2b` | ![#2b2b2b](https://singlecolorimage.com/get/2b2b2b/100x100)   |
+| surface2 | `#333333` | ![#333333](https://singlecolorimage.com/get/333333/100x100)   |
+| text     | `#d4d4d4` | ![#d4d4d4](https://singlecolorimage.com/get/d4d4d4/100x100)   |
+| pink     | `#e8a0bf` | ![#e8a0bf](https://singlecolorimage.com/get/e8a0bf/100x100)   |
+| mauve    | `#c49ae8` | ![#c49ae8](https://singlecolorimage.com/get/c49ae8/100x100)   |
+| red      | `#e86a7a` | ![#e86a7a](https://singlecolorimage.com/get/e86a7a/100x100)   |
+| peach    | `#dbb074` | ![#dbb074](https://singlecolorimage.com/get/dbb074/100x100)   |
+| green    | `#a3c985` | ![#a3c985](https://singlecolorimage.com/get/a3c985/100x100)   |
+| teal     | `#7dcac4` | ![#7dcac4](https://singlecolorimage.com/get/7dcac4/100x100)   |
+| blue     | `#7eb8da` | ![#7eb8da](https://singlecolorimage.com/get/7eb8da/100x100)   |
 
 ## Credits
 
